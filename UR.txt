@@ -113,6 +113,55 @@ Notify Jennifer John with case 05271525 and PR-9221064 once completed at jenn.jo
 	 - Prakash Perumal = 10-10-10 ???
 	 - Abdur Rehman = 10-10-10
 
+8.7.2025 - Mary Medin = 10-10-10 ???
+	 - Alexis Bayer = 9-8-5
+
+8.11.2025 - Samuel Elias-Ausi = 10-10-10-
+
+8.12.2025 - Alex Roe = 10-
+	  - Roxana Troche - 10-10-10
+
+8.14.2025 - Pamela Black - 7-10-10
+	  - Karen Pickett - 10-10-9
+	  - Kenneth Eke - 10-10-10
+
+8.15.2025 - Loshi Vue - 10-10-10
+
+8.18.2025 - Barbara Bane - 10-10-10
+
+8.20.2025 - Rajiv Singh = 10-10-10
+
+8.21.2025 - Alexis Exum - 8-10
+	  - Siva Ankam - 10-10-10
+	  - Elizabeth DeLeon - 10-10-10-
+
+8.22.2025 - Lindsey Fowler - 8-9-10
+
+8.25.2025 - Leigh Bloomquis = 10-10-10 ??
+	  - Vanessa Merz = 10-10-10
+
+8.28.2025 - Leah Carothers - 10-10-10
+
+8.29.205 - Sahil Kumar = 10-10-10
+
+
+9.4.2025 = Alex Svitnev - 10-10-10 ???
+
+	  Rohit Malik - India - atikon d diay mo-survey
+
+9.5.2025 = Santhosh Kumar - 10-10-10 - mosurvey hinoon kng d offeran ug survey :)
+
+9.9.2025 = Karla Delgado - 10-10-10
+	 = Axel Primary Care - 10-10-10 ???
+	 = Gail M  - 10-10-10
+	 = Ralph Williams - 10-10-10
+
+
+9.10.2025 = Santhosh Kumar - 10-10-10
+
+9.11.2025 = Melencia Meditz - 10-10-10 = Johnrey was very helpful in providing information. I have no complaints.
+
+
 
 
 https://ats.rippling.com/medallion-careers/jobs/e5f71f6e-1b53-4126-8ce8-bbb04d210fd4?src=Rippling - Medallion Hiring
@@ -121,11 +170,72 @@ https://uhg.saas.verinthms.com:443/GTConnect/UnifiedAcceptor/AddKnowContentBase.
 ===================================================================================================================
 W0rkFromHome@2026
 
+I'm doing great and ready to help, thanks for asking. How about you? 
+
+TO REACH THE INBOUND TEAM:
+
+Or if you preferred to call, in the meantime you may reach out to the team at 877-842-3210, then follow the steps:
+1. Stay on the line for English
+2. Say “HealthCare professional”
+3. If you say nothing, the ivr will provide the following prompt options: benefits, claims, paan, cred
+4. Say “Credentialing”
+5. “Medical” and then “Advocate” after verifying the provider's NPI and/or TIN
+
+====================================================================================
+REQUEST FOR TIN ACCESS in the portal steps:
+
+Kindly follow the below steps for Tin registration in portal.
+
+1.Please go to www.uhcprovider.com. On the upper right hand, click "Sign In".
+2.Sign In with your credentials.
+3.On the United Healthcare Provider Portal page, click on your name on top right then choose “Request Access”.
+4.Land on the ‘Welcome’ screen. Select Healthcare Professional or Facility, then click ‘Register with my Practice’.
+5.Enter the TIN.
+6.Confirm the TIN and Organization Name on the left side corner of the screen. If your organization is new to the portal, you'll be notified that a Primary Access Administrator is required. You may either attest to that role and verify your organization, identify an individual or cancel the registration for now.
+7.If you are the rightful person to be the Primary Access Administrators, click ‘Attest that I am the Primary Access Administrators’.
+8.Review the statements and confirm if you are the appropriate person to become the Primary Access Administrator. You can track progress at the top of the screen.
+9.You can get access more quickly if you can provide information to verify your organization. You can select any of the 3 validation options:
+-Claim and Member Information - Use information from a previous claim submitted to UnitedHealthcare within the past 60 days
+-Payment Information - Details from claims paid by UnitedHealthcare in the last 60 days.
+-US Mail Validation - Security Key from UnitedHealthcare via U.S. mail service.
+10. If the first 2 verification method (Claim and Member Information and Payment Information) and the Security Key is not working/available, choose US Mail Validation and select 'NO' on the question 'Have you received the Security Key in the mail already from UnitedHealthcare?
+11. If the US mail validation step pushed through, please be advised that a security key will be received via mail within 7-10 business days
+   Resources and tools for providers and health care professionals | UHCprovider.com  
+UnitedHealthcare resources for providers and health care professionals. Explore our network and find tools to make your practice more efficient.
+   Resources and tools for providers and health care professionals | UHCprovider.com  
+UnitedHealthcare resources for providers and health care professionals. Explore our network and find tools to make your practice more efficient.
+
+============================================================================================
+
 Please note the system will automatically close this chat if you are inactive for 5 minutes from your last message. To prevent it from closing, kindly respond within 5 mins so the chat remains active. If the chat is closed by the system, you can continue your inquiry by starting a new chat to reconnect with us. Thank you.
 
 Please be aware that the system will close this chat if there is no activity for 5 minutes. To keep the chat open, please respond within 5 minutes. If the chat closes, you can start a new one to continue your inquiry. Thank you.
 
+You're most welcome, .I truly appreciate your patience and the time you spent with us today. I hope I was able to answer all your questions and concerns. If you need anything else, please don’t hesitate to reach out and chat with us again.
+
+You can add it on the portal by following these steps Sign In> Go to Practice Management dropdown> On the dropdown click on Practice Profile> Once there click on the correct TIN and then View and Edit> Go to Provider Demographics> Click on the pencil icon next to the name of the provider to view and edit details> Follow steps to change or update address or it could be with us internally but I would require the letter of intent and W9.
+
+LOI content example:
+Please share the below information in pdf or word document. We need the following information on company letterhead, physically signed by an authorized representative (owner or health care professional). 
+  1. Group Tax ID 
+  2. Individual NPI 
+  3. Place of service/ Billing address 
+  4. Phone, Fax number
+  5. Email address
+  6. Supervising specialty if mid-level provider 
+  7. W9 form
+  Brief description what you are requesting.
 ===================================================================================================================
+
+Contact name :
+Telephone number :
+Email address :
+Best time to reach including the Time Zone :
+Preferred method of contact :
+
+
+===================================================================================================================
+Sure thing! I’d love to help you with that. Let me take a quick look at the provider details and find the most up-to-date info for you. Would it be okay if I take about 2–5 minutes to do a bit of research?
 
 By any chance, are you with an agency or billing company hired by the HCP office?
 
@@ -183,6 +293,9 @@ You will need to direct your credentialing questions to the delegated entity.
 Delegated medical credentialing occurs when a healthcare entity gives another healthcare entity the authority to credential its practitioners.
 
 I can assist you if you are needing contract status.
+
+For questions, call The Empire Plan help desk at 877-769-7447 (877-7-NYSHIP), 8 a.m.–4:30 p.m. ET, Monday–Friday. You’ll press or say “1” to reach UnitedHealthcare.
+ 
 
 =============================================================================================================
 
